@@ -22,6 +22,11 @@ CSS
 JAVASCRIPT
 
 
+## Getting Started
+
+1. Clone the repository:
+2. Run on the live server.
+
 ## Landing page
 
 ![image](https://github.com/Bharat-Goswami/Green-Paradise-Product-listing/blob/main/images/landing%20page.png)
