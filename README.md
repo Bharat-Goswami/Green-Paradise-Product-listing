@@ -24,7 +24,7 @@ JAVASCRIPT
 
 ## Landing page
 
-![image](https://github.com/Bharat-Goswami/Green-Paradise-Product-listing/blob/main/images/landing page.png) 
+![image](https://github.com/Bharat-Goswami/Green-Paradise-Product-listing/blob/main/images/landing.png) 
 
 ## Detail page
 
