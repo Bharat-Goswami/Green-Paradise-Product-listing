@@ -6,12 +6,12 @@ let navbar_smallscreen = document.getElementById(
 function navbarBigscreen() {
   navbar_bigscreen.innerHTML = `<div id="navbar_bigscreen">
     <div id="first_bigscreen">
-      <a href="/index.html">Green paradise</a>
+      <a href="#">Green paradise</a>
     </div>
     <div id="middle_bigscreen">
-      <a href="/Product_Page/index.html" class="catalog_link">Catalog</a>
+      <a href="#" class="catalog_link">Catalog</a>
       <a href="#">Sale</a>
-      <a href="/checkout.html">Delivery and payment</a>
+      <a href="#">Delivery and payment</a>
       <a href="#">Contact</a>
     </div>
     <div id="last_bigscreen">
@@ -245,7 +245,7 @@ signupScreen();
 
 //------------------- routing of pages --------------------------->>
 document.getElementById("cart_bigscreen").addEventListener("click", () => {
-  window.location = "/checkout.html";
+  window.location = "#";
 });
 // --------------------------quantity big screen----------------->>
 let productsQty = JSON.parse(localStorage.getItem("cart")) || [];
